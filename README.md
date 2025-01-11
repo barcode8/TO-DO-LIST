@@ -65,5 +65,5 @@ todo-list-app/
 ├── styles.css          # Styling and layout
 └── script.js          # Application logic and functionality
 ```
-
-Your Name - [Haardik Aggarwal](https://github.com/barcode8)
+## Author
+[Haardik Aggarwal](https://github.com/barcode8)
